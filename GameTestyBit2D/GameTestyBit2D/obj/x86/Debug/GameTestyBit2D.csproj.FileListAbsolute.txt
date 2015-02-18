@@ -5,3 +5,4 @@ C:\Users\Will\Documents\Visual Studio 2010\Projects\GameTestyBit2D\GameTestyBit2
 C:\Users\Will\Documents\Visual Studio 2010\Projects\GameTestyBit2D\GameTestyBit2D\GameTestyBit2D\obj\x86\Debug\GameTestyBit2D.pdb
 C:\Users\Will\Documents\Visual Studio 2010\Projects\GameTestyBit2D\GameTestyBit2D\GameTestyBit2D\obj\x86\Debug\GameTestyBit2D.csprojResolveAssemblyReference.cache
 C:\Users\Will\Documents\Visual Studio 2010\Projects\GameTestyBit2D\GameTestyBit2D\GameTestyBit2D\bin\x86\Debug\Content\arrow.xnb
+C:\Users\Will\Documents\Visual Studio 2010\Projects\GameTestyBit2D\GameTestyBit2D\GameTestyBit2D\bin\x86\Debug\Content\grass.xnb
