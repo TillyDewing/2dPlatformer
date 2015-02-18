@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTestyBit2D", "GameTestyBit2D\GameTestyBit2D\GameTestyBit2D.csproj", "{C1A1078F-FC2E-40F6-8997-A29C8A064EED}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameTestyBit2DContent", "GameTestyBit2D\GameTestyBit2DContent\GameTestyBit2DContent.contentproj", "{54E41323-759C-4DB6-B6D2-9D56DFB01FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A1078F-FC2E-40F6-8997-A29C8A064EED}.Debug|x86.ActiveCfg = Debug|x86
+		{C1A1078F-FC2E-40F6-8997-A29C8A064EED}.Debug|x86.Build.0 = Debug|x86
+		{C1A1078F-FC2E-40F6-8997-A29C8A064EED}.Release|x86.ActiveCfg = Release|x86
+		{C1A1078F-FC2E-40F6-8997-A29C8A064EED}.Release|x86.Build.0 = Release|x86
+		{54E41323-759C-4DB6-B6D2-9D56DFB01FEC}.Debug|x86.ActiveCfg = Debug|x86
+		{54E41323-759C-4DB6-B6D2-9D56DFB01FEC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
